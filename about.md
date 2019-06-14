@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi I'm Tony Miller aka firedrill aka freedrull.
+I've been making music since 2005 or so, and djing since 2010.
+I started <a href="https://datafruits.fm/">datafruits.fm</a> in late 2011.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Also drawing, making comics, animation, design, etc.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently based in Seoul, South Korea.
