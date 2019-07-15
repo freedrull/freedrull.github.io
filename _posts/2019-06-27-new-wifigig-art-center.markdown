@@ -2,7 +2,7 @@
 layout: post
 title:  "wificellphonekidz gig do over"
 date:   2019-06-27
-categories: event
+categories: [event]
 ---
 
 Our last gig at <a href="https://www.instagram.com/space_xx_/">space_xx</a> didn't happen, so we are redoing it this Friday at <a href="https://www.instagram.com/p/BzKH5Nspb5q/">Seoul Art Space Geumcheon!</a>

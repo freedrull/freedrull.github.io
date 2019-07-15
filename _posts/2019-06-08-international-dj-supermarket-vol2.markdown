@@ -2,7 +2,7 @@
 layout: post
 title:  "International DJ Supermarket vol. 2"
 date:   2019-06-08
-categories: event
+categories: [ event ]
 ---
 
 <img src="/assets/images/djsupermarket_vol2.jpg">

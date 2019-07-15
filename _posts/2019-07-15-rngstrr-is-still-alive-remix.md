@@ -2,7 +2,7 @@
 layout: post
 title:  "Kamaida/Magoichi Suzuki - Rngstrr Is Still Alive firedrill remix"
 date:   2019-07-15
-categories: music, release, remix
+categories: [music, release, remix]
 ---
 
 Here is a remix I did for Kamaida/Magoichi Suzuki's track "Rngstrr Is Still Alive".

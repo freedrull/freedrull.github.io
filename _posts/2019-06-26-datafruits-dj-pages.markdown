@@ -2,7 +2,7 @@
 layout: post
 title:  "datafruits DJ pages"
 date:   2019-06-26
-categories: event
+categories: [event]
 ---
 
 <img src="/assets/images/datafruits_djs.PNG">
