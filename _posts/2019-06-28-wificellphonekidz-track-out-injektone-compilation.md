@@ -2,7 +2,7 @@
 layout: post
 title:  "wificellphonekidz - avacado trot USA out on INJEKTONE 10 compilation"
 date:   2019-06-27
-categories: music, release
+categories: music, release, wificellphonekidz
 ---
 
 We released a track "AVACADO TROT USA" on the INJEKTONE compilation back in April for M3 Spring in
