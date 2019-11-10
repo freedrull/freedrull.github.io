@@ -16,11 +16,11 @@
 title: firedrill
 email: mcfiredrill@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  dingus since birth
+  not sure what i'm doing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: freedrull
+github_username:  mcfiredrill
 
 # Build settings
 markdown: kramdown
@@ -31,3 +31,16 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
