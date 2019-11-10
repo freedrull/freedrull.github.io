@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "cooltrash art exhibitions - fall 2019"
-date:   2019-10-02
+date:   2019-11-10
 categories: [art, exhibition]
 ---
 We did two art exhibitions this September as cool trash.
