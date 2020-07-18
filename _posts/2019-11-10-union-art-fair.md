@@ -2,7 +2,8 @@
 layout: post
 title: "cooltrash art exhibitions - fall 2019"
 date: 2019-11-10
-categories: [art, exhibition]
+categories: [art, exhibition, artwork]
+image: "/assets/images/cooltrash_exhibition_2019/cooltrash_union_art_fair_1.jpg"
 ---
 
 We did two art exhibitions this September as cool trash.

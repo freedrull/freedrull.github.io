@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Junk</h1>
+
+  {{ content }}
+
+  <ul class="post-list flex">
+    {% for post in site.categories.artwork %}
+      <li class="post-item">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {% if post.image %}
+          <img src={{ post.image }} width="300" />
+          {% endif %}
+          <h2>
+            {{ post.title | escape }}
+          </h2>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
