@@ -6,3 +6,4 @@ categories: [artwork, gif]
 image: "/assets/images/falling_colas.gif"
 ---
 
+<img src="/assets/images/falling_colas.gif" >

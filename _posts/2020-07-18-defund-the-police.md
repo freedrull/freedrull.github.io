@@ -7,3 +7,4 @@ image: "/assets/images/defund.gif"
 ---
 
 we know what to do #defundthepolice
+<img src="/assets/images/defund.gif" >
