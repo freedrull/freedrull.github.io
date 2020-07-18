@@ -16,6 +16,9 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    {% if post.image %}
+      <img src={{ post.image }} />
+    {% endif %}
     {{ content }}
   </div>
 
