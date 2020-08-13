@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "maybe cola"
+title: "seacuke - lvl lvp EP"
 date: 2020-07-03
 categories: [artwork, music]
 image: "/assets/images/seacuke_lvl.jpg"
