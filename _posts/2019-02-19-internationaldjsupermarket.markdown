@@ -2,7 +2,8 @@
 layout: post
 title:  "International DJ Supermarket"
 date:   2019-02-19 11:49:52 +0900
-categories: [event]
+categories: [event, artwork]
+image: "/assets/images/international_dj_supermarket.jpg"
 ---
 
 <img src="/assets/images/international_dj_supermarket.jpg">
