@@ -16,7 +16,7 @@
 title: firedrill
 email: mcfiredrill@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  not sure what i'm doing
+  "since 2006"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: freedrull
