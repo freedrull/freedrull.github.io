@@ -3,7 +3,7 @@ layout: post
 title: "wifi gig @ Seoul Community Radio"
 date: 2022-07-22
 categories: [live, music]
-image: "/assets/images/wifi_scr_2022.png"
+image: "/assets/images/wifi_scr_2022.jpg"
 ---
 
 We are playing at Seoul Community Radio this Sunday.
