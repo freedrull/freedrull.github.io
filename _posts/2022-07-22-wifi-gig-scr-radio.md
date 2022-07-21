@@ -10,6 +10,7 @@ We are playing at Seoul Community Radio this Sunday.
 The theme of the event is 90s tour bus medley, pumba, etc.
 Tune in!
 
+<pre>
 cast
 🎤LIVE
 I'm sure that you'll be able to see the difference between the way
@@ -22,3 +23,4 @@ Fire drill @freedrull
 Busitakyu @vizita_q
 Hotpot @zkgui
 Sewing bird @c_bong_sae
+</pre>
