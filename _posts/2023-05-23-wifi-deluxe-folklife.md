@@ -3,7 +3,7 @@ layout: post
 title: "wifi kidz DELUXE EDITION @ NW Folklife"
 date: 2023-05-23
 categories: [live, music]
-image: "/assets/images/wifi_deluxe_folklife.jpg"
+image: "/assets/images/wifi_deluxe_folklife_2023.jpg"
 ---
 
 Wifi Cellphone Kidz DELUXE EDITION now with live drumming and keyboarding!
